@@ -3,7 +3,6 @@
 
 library(ISLR)     # for data
 library(boot)     # for cv.glm()
-library(tidyverse)
 
 # The Validation Set Approach ==============================================
 set.seed(1)
