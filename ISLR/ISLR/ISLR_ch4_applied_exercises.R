@@ -1,4 +1,4 @@
-# ISLR Chapter 4 Lab
+# ISLR Chapter 4 Exercises
 # Daniel J. Vera, Ph.D.
 
 library(class)    # for KNN
